@@ -1,0 +1,12 @@
+# Ignore VM disk images
+*.vmdk
+*.vdi
+*.vbox
+*.img
+*.qcow2
+*.iso
+
+# Ignore other large files (e.g., logs, cache)
+*.log
+*.bak
+*.tar.gz
